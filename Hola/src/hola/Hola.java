@@ -7,6 +7,7 @@ public class Hola {
 		System.out.println("Hola");
 	System.out.println("Adiós");
 	System.out.println("HUE");
+	System.out.println(" De locos");
 	}
 	
 }
